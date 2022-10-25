@@ -1,4 +1,3 @@
-import { access } from "fs";
 import { SyntheticEvent, useState } from "react";
 import "./style.css";
 
